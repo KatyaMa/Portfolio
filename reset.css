@@ -48,9 +48,12 @@ table {
     background-color:dimgray;
 }
 .col-contact{
-    padding: 3rem 5rem 4.5rem 15rem;
+    padding: 3rem 10rem 4.5rem 15rem;
     color: white;
     font-size: 1.3rem;
+}
+.col-portfolio{
+    align-items: center;
 }
 
 .card-About{
@@ -86,5 +89,4 @@ footer{
 }
 .navbar-brand{
     color: white;
-
 }
